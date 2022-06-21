@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wagnersil
+- 👋 Hi, my name is @wagner
 - 👀 I am interested in expanding my knowledge !
 - 🌱 i'm learning front-end
 - 📫 contact by email: wagner_porta1@outlook.com
